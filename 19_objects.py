@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#coding: utf-8
 
 name = 'Gwen'
 rating = 10

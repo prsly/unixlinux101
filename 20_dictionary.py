@@ -1,4 +1,5 @@
 #!/usr/bin/python
+#coding: utf-8
 
 ordinal = {1: 'первый', 2: 'второй', 3:'третий'}
 print "Массив ordinal содержит", ordinal

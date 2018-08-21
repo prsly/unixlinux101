@@ -1,10 +1,10 @@
 #!/usr/bin/python
-
+#coding: utf-8
 import sys
 
 a = sys.argv[1]
 
-if a "1":
+if a == "1":
     print 'а равно одному'
     print 'Это все еще ветвь then оператора if.'
 else:
